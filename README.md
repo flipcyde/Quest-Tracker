@@ -18,8 +18,8 @@ The Pet Simulator 99 Clan Monitor Bot is a Discord bot designed to monitor and d
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/petsimulator99-clan-monitor-bot.git
-   cd petsimulator99-clan-monitor-bot
+   git clone https://github.com/flipcyde/Quest-Tracker.git
+   cd questbot
    ```
 
 2. **Install Dependencies**
