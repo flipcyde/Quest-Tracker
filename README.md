@@ -67,7 +67,8 @@ The Pet Simulator 99 Clan Monitor Bot is a Discord bot designed to monitor and d
 - This ensures that temporary issues do not prevent the bot from functioning correctly.
 
 ## Example
-![Example](example.png)
+![image](https://github.com/flipcyde/Quest-Tracker/assets/39178036/b2e6121a-3dfe-466a-9559-9ad0539b96b3)
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
